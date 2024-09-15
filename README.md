@@ -1,7 +1,3 @@
-Here's a simple README for your `VIT-Proxy` repository:
-
----
-
 # VIT-Proxy
 
 VIT-Proxy is a macOS utility for toggling proxy settings on the Wi-Fi network. This repository contains two AppleScript apps that can turn the proxy on and off as needed. The scripts use the `networksetup` command to modify web proxy and secure web proxy settings.
@@ -51,7 +47,3 @@ tell current application to quit
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
-Let me know if you need any modifications!
